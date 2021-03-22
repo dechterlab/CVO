@@ -1,0 +1,6 @@
+/home/bbpezeshki/VSCode/CVO/build/CMakeFiles/rebuild_cache.dir
+/home/bbpezeshki/VSCode/CVO/build/CMakeFiles/cvo.dir
+/home/bbpezeshki/VSCode/CVO/build/CMakeFiles/edit_cache.dir
+/home/bbpezeshki/VSCode/CVO/build/miniSAT/CMakeFiles/rebuild_cache.dir
+/home/bbpezeshki/VSCode/CVO/build/miniSAT/CMakeFiles/Minisat.dir
+/home/bbpezeshki/VSCode/CVO/build/miniSAT/CMakeFiles/edit_cache.dir
